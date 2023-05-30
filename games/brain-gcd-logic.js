@@ -35,6 +35,6 @@ const askAndAnswer = () => {
   return [question, gameAnswer.toString()];
 };
     
-const quizGSD = () => startGame(description, askAndAnswer);
-export default quizGSD;
+const quizGCD = () => startGame(description, askAndAnswer);
+export default quizGCD;
        
